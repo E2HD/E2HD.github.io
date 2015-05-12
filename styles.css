@@ -31,10 +31,17 @@ h1 {
   margin: 0 0 20px 0;
 }
 
+.major {
+  font-size: 21px;
+  text-align: justify;
+  margin: 10px 50px 10px 50px;
+}
+
 .lead {
   font-size: 21px;
-  font-weight: 200;
-  margin-bottom: 20px;
+  font-weight: 300;
+  margin: 10px 0px 20px 0px;
+  color: blue;
 }
 
 .trail {
